@@ -18,3 +18,6 @@
 
 ## 2026-09-06 — Marketing Slack feedback into BRIEF
 - Cut claim repetition; Makeover is visual centerpiece; one question per section + Learn more YT links; page takeaway + CTA subline (Jared demo).
+
+## 2026-09-09 — CRM Migration form share pages
+- Added `/forms/<slug>/` Zoho embed wrappers for CRM Migration shareable links. HubSpot untouched.
